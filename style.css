@@ -32,6 +32,7 @@ margin-bottom: 30px;
 }
 .text__box {
 text-align: justify; 
+line-height: 1.5;
 }
 .h1__wrapper {
 display: flex;
